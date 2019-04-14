@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Pedido de Menus</string>
+    <string name="cliente">Cliente : </string>
+    <string name="direccion">Dirección : </string>
+    <string name="distrito">Distrito : </string>
+    <string name="seleccioneMenus">Seleccione Menú : </string>
+    <string name="menuPobre">Menú Pobre ~ S/. 5.00</string>
+    <string name="menuEconomico">Menú Económico ~ S/. 8.00</string>
+    <string name="menuEjecutivo">Menú Ejecutivo ~ S./15.00</string>
+    <string name="descuento">¿Aplica descuento?</string>
+    <string name="botonEnvío">Envíar Pedido</string>
+
+    <string-array name="distritos">
+        <item>Miraflores</item>
+        <item>SJL</item>
+        <item>Chorrillos</item>
+        <item>VES</item>
+    </string-array>
+</resources>
